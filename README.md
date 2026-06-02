@@ -3,7 +3,7 @@ I'm a former Collegiate Student-Athlete finishing up my Masters of Science in Cy
 
 To me, Finance is a puzzle that can't be solved; it's unpredictable like humans. However, we can improve it. Golf taught me to look for changes within millimeters, and now I'm looking for patterns and building models that are constantly improving. This constant pursuit of improvement keeps me building.  
 
-I'm looking to work in Charlotte, North Carolina upon graduation, where I can build with the field of finance, accounting and cybersecurity, whether it's models, tools, or systems that allow for better decisions. 
+I'm looking to work in Charlotte, North Carolina upon graduation, where I can build within the field of finance, accounting and cybersecurity, whether it's models, tools, or systems that allow for better decisions. 
 
 **Grauduating December 2026 · Available January 2027** 
 

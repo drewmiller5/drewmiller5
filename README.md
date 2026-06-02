@@ -2,6 +2,7 @@
 I'm a former Collegiate Student-Athlete finishing up my Masters of Science in Cybersecurity at Marymount University. I did my undergraduate studies at Elon University (Class of 2025), earning a B.S.B.A Financial Technology and B.S. Accounting degree separate degrees.
 
 I'm targeting to work in Charlotte, North Carolina upon my graduation. 
+
 **Grauduating December 2026 · Available January 2027** 
 
 

@@ -20,7 +20,7 @@ I'm targeting to work in Charlotte, North Carolina upon my graduation.
 ## Featured Projects
 
 **[DCF-Model](https://github.com/drewmiller5/DCF-Model)**
-Automated discounted cash flow valuation tool. Input a public company ticker, get a 10-year projection workbook with WACC × terminal growth rate sensitivity analysis and live data from Yahoo Finance. Built for analysts and undergraduate students who want institutional-grade output without a Bloomberg terminal.
+Automated discounted cash flow valuation tool. Input a public company ticker, get a 10-year projection workbook with WACC and terminal growth rate sensitivity analysis and live data from Yahoo Finance. Built for analysts and undergraduate students who want institutional-grade output without a Bloomberg terminal.
 
 **[adaptive-passwordless-auth](https://github.com/drewmiller5/adaptive-passwordless-auth)**
 Research project done at Marymount University in Information Security Management (IT575). Built a Passwordless authentication prototype with an adaptive risk engine that scores every login attempt for behavioral anomalies. Goes beyond removing the password — each authentication event is evaluated in context to detect unusual patterns before access is granted.

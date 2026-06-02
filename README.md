@@ -1,6 +1,8 @@
 ## About Me:
 I'm a former Collegiate Student-Athlete finishing up my Masters of Science in Cybersecurity at Marymount University. I completed my undergraduate studies at Elon University (Class of 2025), earning a B.S.B.A Financial Technology and B.S. Accounting, separate degrees.
 
+To me, Finance is a puzzle that can't be solved; it's unpredictable like humans. However, we can improve it. Golf taught me to look for changes within millimeters, and now I'm looking for patterns and building models that are constantly improving. This constant pursuit of improvement keeps me building.  
+
 I'm targeting to work in Charlotte, North Carolina upon my graduation. 
 
 **Grauduating December 2026 · Available January 2027** 

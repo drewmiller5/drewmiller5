@@ -5,7 +5,7 @@ To me, Finance is a puzzle that can't be solved; it's unpredictable like humans.
 
 I'm looking to work in Charlotte, North Carolina upon graduation, where I can build within the field of finance, accounting and cybersecurity, whether it's models, tools, or systems that allow for better decisions. 
 
-**Grauduating December 2026 · Available January 2027** 
+**Graduating December 2026 · Available January 2027** 
 
 
 ## 🌐 Socials:

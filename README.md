@@ -5,7 +5,7 @@ To me, Finance is a puzzle that can't be solved; it's unpredictable like humans.
 
 I'm looking to work in Charlotte, North Carolina, upon graduation, where I can build within the field of finance, accounting, and cybersecurity, whether it's models, tools, or systems that allow for better decisions.
 
-**Graduating December 2026 · Available January 2027** 
+**Graduating December 2026 · Seeking full-time roles starting January 2027** 
 
 
 ## 🌐 Socials:
@@ -20,6 +20,9 @@ I'm looking to work in Charlotte, North Carolina, upon graduation, where I can b
 | CompTIA CySA+ CS0-003 | Target: August 2026 |
 
 ## Featured Projects
+
+**[Financial-Monte-Carlo](https://github.com/drewmiller5/Financial-Monte-Carlo)**
+Open-source Python library for Monte Carlo cyber risks. Estimates financial exposure from data breaches using IBM Cost of a Data Breach and Verizon DBIR-calibrated models using a Streamlit dashboard for scenario analysis and forecasting. 
 
 **[DCF-Model](https://github.com/drewmiller5/DCF-Model)**
 Automated discounted cash flow valuation tool. Input a public company ticker, get a 10-year projection workbook with WACC and terminal growth rate sensitivity analysis, and live data from Yahoo Finance. Built for analysts and undergraduate students who want institutional-grade output without a Bloomberg terminal.

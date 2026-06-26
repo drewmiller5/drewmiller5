@@ -16,8 +16,9 @@ I'm looking to work in Charlotte, North Carolina, upon graduation, where I can b
 | Credential | Status |
 |------------|--------|
 | ISC2 Certified in Cybersecurity (CC) | ✅ November 2025 |
-| CompTIA Security+ SY0-701 | In progress — Test on June 25, 2026 |
-| CompTIA CySA+ CS0-003 | Target: August 2026 |
+| CompTIA Security+ | ✅ June 2026 |
+| CompTIA CySA+ | Target: August 2026 |
+| Microsoft SC-500 | Target: September 2026 |
 
 ## Featured Projects
 

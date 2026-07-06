@@ -10,6 +10,7 @@ I'm looking to work in Charlotte, North Carolina, upon graduation, where I can b
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drew-miller-aa6271289/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/drewmiller554)
 
 ## Certifications
 

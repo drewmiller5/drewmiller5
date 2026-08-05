@@ -18,7 +18,7 @@ I'm looking to work in Charlotte, North Carolina, upon graduation, where I can b
 |------------|--------|
 | ISC2 Certified in Cybersecurity (CC) | ✅ November 2025 |
 | CompTIA Security+ | ✅ June 2026 |
-| CompTIA CySA+ | Exam Date: August 6, 2026 |
+| CompTIA CySA+ | Exam Date: August 13, 2026 |
 | Microsoft SC-500 | Target: September 2026 |
 
 ## Featured Projects

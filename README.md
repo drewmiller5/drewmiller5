@@ -26,6 +26,9 @@ I'm looking to work in Charlotte, North Carolina, upon graduation, where I can b
 **[Financial-Monte-Carlo](https://github.com/drewmiller5/Financial-Monte-Carlo)**
 Open-source Python library for Monte Carlo cyber risks. Estimates financial exposure from data breaches using IBM Cost of a Data Breach and Verizon DBIR-calibrated models using a Streamlit dashboard for scenario analysis and forecasting. 
 
+**[Purple-Team-Project](https://github.com/drewmiller5/Purple-Team-Project)**
+Live purple-team lab. Ollama red and blue team agents will fight over a real vulnerable target testing whether AI is better on offense or defense.
+
 **[DCF-Model](https://github.com/drewmiller5/DCF-Model)**
 Automated discounted cash flow valuation tool. Input a public company ticker, get a 10-year projection workbook with WACC and terminal growth rate sensitivity analysis, and live data from Yahoo Finance. Built for analysts and undergraduate students who want institutional-grade output without a Bloomberg terminal.
 

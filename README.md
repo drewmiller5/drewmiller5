@@ -29,7 +29,7 @@ Open-source Python library for Monte Carlo cyber risks. Estimates financial expo
 **[Purple-Team-Project](https://github.com/drewmiller5/Purple-Team-Project)**
 Live purple-team lab. Ollama red and blue team agents will fight over a real vulnerable target testing whether AI is better on offense or defense.
 
-**[DCF-Model](https://github.com/drewmiller5/DCF-Model)**
+**[DCF-Model](https://github.com/drewmiller5/dcf-model)**
 Automated discounted cash flow valuation tool. Input a public company ticker, get a 10-year projection workbook with WACC and terminal growth rate sensitivity analysis, and live data from Yahoo Finance. Built for analysts and undergraduate students who want institutional-grade output without a Bloomberg terminal.
 
 **[adaptive-passwordless-auth](https://github.com/drewmiller5/adaptive-passwordless-auth)**

@@ -23,22 +23,22 @@ I'm looking to work in Charlotte, North Carolina, upon graduation, where I can b
 
 ## Featured Projects
 
-**[Financial-Monte-Carlo](https://github.com/drewmiller5/Financial-Monte-Carlo)**
+**[Financial Monte Carlo](https://github.com/drewmiller5/Financial-Monte-Carlo)**
 Open-source Python library for Monte Carlo cyber risks. Estimates financial exposure from data breaches using IBM Cost of a Data Breach and Verizon DBIR-calibrated models using a Streamlit dashboard for scenario analysis and forecasting. 
 
-**[Purple-Team-Project](https://github.com/drewmiller5/Purple-Team-Project)**
+**[AI Purple Team Lab](https://github.com/drewmiller5/Purple-Team-Project)**
 Live purple-team lab. Ollama red and blue team agents will fight over a real vulnerable target testing whether AI is better on offense or defense.
 
-**[DCF-Model](https://github.com/drewmiller5/dcf-model)**
+**[DCF Model](https://github.com/drewmiller5/dcf-model)**
 Automated discounted cash flow valuation tool. Input a public company ticker, get a 10-year projection workbook with WACC and terminal growth rate sensitivity analysis, and live data from Yahoo Finance. Built for analysts and undergraduate students who want institutional-grade output without a Bloomberg terminal.
 
-**[adaptive-passwordless-auth](https://github.com/drewmiller5/adaptive-passwordless-auth)**
+**[Adaptive Passwordless Authentication](https://github.com/drewmiller5/adaptive-passwordless-auth)**
 Research project done at Marymount University in Information Security Management (IT575). Built a Passwordless authentication prototype with an adaptive risk engine that scores every login attempt for behavioral anomalies. Goes beyond removing the password as each authentication event is evaluated in context to detect unusual patterns before access is granted.
 
-**[authentication-security-research](https://github.com/drewmiller5/authentication-security-research)**
+**[Authentication Security Reserach](https://github.com/drewmiller5/authentication-security-research)**
 Research completed at Marymount University in Advanced Computer Security (IT535). The research purpose was to find how to evaluate effective modern authentication with practical attacks. Controlled security research using a dual-dataset methodology: a fixed 100-user static dataset for reproducible results and a 50-user randomized dataset for validation testing. Test the authentication system vulnerabilities under scientific conditions.
 
-**[campaign-chanel-manager](https://github.com/drewmiller5/campaign-channel-manager)**
+**[Campaign Channel Manager](https://github.com/drewmiller5/campaign-channel-manager)**
 Research completed at Marymount University in Computer Scripting Techniques (IT566). Built a multilayer console using SQL and Python with layered architecure of presentation → service → persistence → infrastructure. 
 
 ## 💻 Tech Stack:
